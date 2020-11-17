@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Challenge: Links for learning</title>
+    </head>
+    <body>
+        
+        <h1>Links for learning</h1>
+        
+        <ul>
+            <li> <a href="https://docs.google.com/presentation/d/1DQy5QMRHrWrqCwAqUOhvzDmgg_HlTj2-WKeWEFcNohI/edit?usp=sharing">My group 4 Let Us Meet Activity</a></li>
+            <li> <a href="https://docs.google.com/presentation/d/18Wk2d4paPdDUKosQ_4ROryN7dM9ts96xeRAfFJFsymM/edit?usp=sharing">Group 4 MDP Activity </a></li>
+            <li> <a href="https://docs.google.com/document/d/1GLEdx3I1dd01XCgsSt2N0HyjuigY7H15D38DZ1HQnCQ/edit?usp=sharing">My English Activity[Wimpy Kid]</a> </li>
+        </ul>
+
+        <img src="https://www.kasandbox.org/programming-images/cute/Heart.png">
+        
+    </body>
+</html>
